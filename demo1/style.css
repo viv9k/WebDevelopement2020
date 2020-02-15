@@ -1,0 +1,36 @@
+#header {
+    background-color: black;
+    color: white;
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+    text-align: center;
+}
+
+#subContent {
+    color: blue;
+    padding-top: 2%;
+
+    text-align: center;
+}
+
+#email {
+    color: red;
+}
+
+#footer {
+    background-color: black;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 10%;
+
+    color: white;
+
+    text-align: center;
+}
+
+#result {
+    color: Black;
+    padding-top: 5%;
+}
